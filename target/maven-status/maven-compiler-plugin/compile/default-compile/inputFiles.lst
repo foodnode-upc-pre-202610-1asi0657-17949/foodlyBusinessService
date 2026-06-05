@@ -1,0 +1,12 @@
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\application\dto\HuariqueResponseDto.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\application\dto\MenuUpdatedEventDto.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\application\dto\MenuUpdateDto.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\application\service\BusinessService.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\domain\model\Huarique.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\domain\model\Menu.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\domain\model\Product.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\FoodlyBusinessServiceApplication.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\infrastructure\messaging\publisher\MenuEventPublisher.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\infrastructure\persistence\HuariqueRepository.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\infrastructure\security\JwtValidationFilter.java
+C:\Users\Jasmin\Desktop\entregafundamentos\Microservicio1\FoodlyBusinessService\src\main\java\com\FoodlyBusinessService\presentation\rest\HuariqueController.java
